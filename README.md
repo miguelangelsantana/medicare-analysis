@@ -30,7 +30,11 @@ Future work should include a deeper analysis into various products including Med
 
 For any additional questions, please reach out via email at santana2.miguel@gmail.com or on [LinkedIn.](https://www.linkedin.com/in/miguel-angel-santana-ii-mba-51467276/)
 
+##### Repository Structure:
 
-```python
+```
+
+├── README.md               <- The top-level README for reviewers of this project.
+├── Medicare_Analysis.ipynb     <- narrative documentation of analysis in jupyter notebook
 
 ```
